@@ -110,4 +110,41 @@ Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor
 [2014.05.17-23.11.07:679][469]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
 [2014.05.17-23.11.08:324][537]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
 [2014.05.17-23.11.08:812][591]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.12:255][999]L
+[2014.05.17-23.11.12:255][999]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.17-23.11.12:897][ 71]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.17-23.11.13:603][150]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.17-23.11.18:321][707]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.17-23.11.28:332][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_0) Not registered. Aborting.
+[2014.05.17-23.11.28:396][866]LogTexture:Display: Building textures: Texture2D_1 (G8)
+[2014.05.17-23.11.39:446][103]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/NewFolder'
+[2014.05.17-23.11.46:073][873]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2014.05.17-23.11.49:713][296]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.05.17-23.11.54:333][807]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/NewFolder'
+[2014.05.17-23.12.05:771][130]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Arcetecturee'
+[2014.05.17-23.12.11:104][744]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2014.05.17-23.12.13:235][957]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2014.05.17-23.12.21:870][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Test" FILE="../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Materials/Test.uasset" SILENT=true
+[2014.05.17-23.12.22:291][800]LogSavePackage: Save=405.567749ms
+[2014.05.17-23.12.22:291][800]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Saved//Test3512DAEF4BC0EC38067EB6A15BEC51AA.tmp' to '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Materials/Test.uasset'
+[2014.05.17-23.12.24:019][954]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.05.17-23.13.31:182][786]LogSavePackage: Save=75.671066ms
+[2014.05.17-23.13.31:182][786]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Saved//Test082ADE8341231F373B6B59B0992458CD.tmp' to '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Levels/Test.umap'
+[2014.05.17-23.13.31:404][786]LogFileHelpers: Saving map 'Test' took 1.902
+[2014.05.17-23.17.45:129][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2014.05.17-23.17.47:288][867]Cmd: UpdateLandscapeHoleCollision
+[2014.05.17-23.17.50:392][227]Cmd: DELETE
+[2014.05.17-23.17.50:392][227]Cmd: ACTOR DELETE
+[2014.05.17-23.17.50:419][227]LogEditorActor: Deleted Actor: Brush
+[2014.05.17-23.17.50:445][227]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2014.05.17-23.17.50:746][227]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.17-23.17.51:396][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2014.05.17-23.17.51:928][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2014.05.17-23.17.53:749][512]Cmd: DELETE
+[2014.05.17-23.17.53:749][512]Cmd: ACTOR DELETE
+[2014.05.17-23.17.53:749][512]LogEditorActor: Deleted Actor: StaticMeshActor
+[2014.05.17-23.17.53:769][512]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2014.05.17-23.20.51:178][855]LogWindows: LaunchURL http://www.unrealengine.com/blog?category=Blueprints
+[2014.05.17-23.20.51:405][855]LogWindows: LaunchURL http://www.unrealengine.com/blog?category=Blueprints
+[2014.05.17-23.20.51:408][855]LogWindows: LaunchURL http://www.unrealengine.com/blog?category=Blueprints
+[2014.05.17-23.21.10:586][860]LogWindows: LaunchURL http://wiki.unrealengine.com/Editing_Matinee_Basics:_Creating_Your_First_Matinee_Sequence
+[2014.05.17-23.22.31:49
