@@ -1,4 +1,4 @@
-Log file open, 05/17/14 19:10:46
+Log file open, 05/17/14 19:31:13
 LogInit:Display: Running engine for game: Para_Adven
 LogInit: Version: 4.1.0-2053896+++depot+UE4-Releases+4.1
 LogInit: Compiled (64-bit): Apr 22 2014 19:53:05
@@ -7,144 +7,149 @@ LogInit: Branch Name: ++depot+UE4-Releases+4.1
 LogInit: Command line: 
 LogInit: Base directory: C:/Program Files/Unreal Engine/4.1/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2014.05.17-23.10.46:427][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
-[2014.05.17-23.10.46:461][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2014.05.17-23.10.46:475][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2014.05.17-23.10.46:483][  0]LogInit: Object subsystem initialized
-[2014.05.17-23.10.46:485][  0]LogInit: Selected Device Profile: [Windows]
-[2014.05.17-23.10.46:485][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2014.05.17-23.10.46:493][  0]LogInit: Computer: JUSTIN-PC
-[2014.05.17-23.10.46:493][  0]LogInit: User: Justin
-[2014.05.17-23.10.46:495][  0]LogInit: CPU Page size=4096, Cores=4
-[2014.05.17-23.10.46:495][  0]LogInit: High frequency timer resolution =3.429501 MHz
-[2014.05.17-23.10.46:495][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=8192.0GB
-[2014.05.17-23.10.46:495][  0]LogMemory: Platform Memory Stats for Windows
-[2014.05.17-23.10.46:495][  0]LogMemory: Process Physical Memory: 69.11 MB used, 69.11 MB peak
-[2014.05.17-23.10.46:495][  0]LogMemory: Process Virtual Memory: 49.38 MB used, 49.38 MB peak
-[2014.05.17-23.10.46:495][  0]LogMemory: Physical Memory: 3073.43 MB used, 8089.45 MB total
-[2014.05.17-23.10.46:495][  0]LogMemory: Virtual Memory: 252.94 MB used, 8388608.00 MB total
-[2014.05.17-23.10.46:535][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 660   (Feature Level 11_0)
-[2014.05.17-23.10.46:535][  0]LogD3D11RHI: Adapter has 1989MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory
-[2014.05.17-23.10.46:535][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2014.05.17-23.10.46:543][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2014.05.17-23.10.46:553][  0]LogD3D11RHI: Async texture creation enabled
-[2014.05.17-23.10.46:608][  0]LogInit:Warning: We appear to have no tool tip localization data? Editor can't run.
-[2014.05.17-23.10.46:608][  0]LogInit:Warning: We appear to have no property name localization data? Editor can't run.
-[2014.05.17-23.10.46:640][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
+[2014.05.17-23.31.13:011][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.05.17-23.31.13:045][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.05.17-23.31.13:058][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.05.17-23.31.13:066][  0]LogInit: Object subsystem initialized
+[2014.05.17-23.31.13:068][  0]LogInit: Selected Device Profile: [Windows]
+[2014.05.17-23.31.13:068][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.05.17-23.31.13:075][  0]LogInit: Computer: JUSTIN-PC
+[2014.05.17-23.31.13:075][  0]LogInit: User: Justin
+[2014.05.17-23.31.13:077][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.05.17-23.31.13:077][  0]LogInit: High frequency timer resolution =3.429501 MHz
+[2014.05.17-23.31.13:077][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=8192.0GB
+[2014.05.17-23.31.13:077][  0]LogMemory: Platform Memory Stats for Windows
+[2014.05.17-23.31.13:077][  0]LogMemory: Process Physical Memory: 69.07 MB used, 69.07 MB peak
+[2014.05.17-23.31.13:077][  0]LogMemory: Process Virtual Memory: 49.39 MB used, 49.39 MB peak
+[2014.05.17-23.31.13:077][  0]LogMemory: Physical Memory: 2928.32 MB used, 8089.45 MB total
+[2014.05.17-23.31.13:077][  0]LogMemory: Virtual Memory: 252.94 MB used, 8388608.00 MB total
+[2014.05.17-23.31.13:115][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 660   (Feature Level 11_0)
+[2014.05.17-23.31.13:115][  0]LogD3D11RHI: Adapter has 1989MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory
+[2014.05.17-23.31.13:115][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.05.17-23.31.13:122][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2014.05.17-23.31.13:132][  0]LogD3D11RHI: Async texture creation enabled
+[2014.05.17-23.31.13:184][  0]LogInit:Warning: We appear to have no tool tip localization data? Editor can't run.
+[2014.05.17-23.31.13:184][  0]LogInit:Warning: We appear to have no property name localization data? Editor can't run.
+[2014.05.17-23.31.13:211][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-291638278) String: (Toggle Realtime)
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-1913389001) String: (Toggles real time rendering in this viewport)
-[2014.05.17-23.10.46:665][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2014.05.17-23.10.46:709][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2014.05.17-23.10.47:761][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.05.17-23.10.47:937][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.05.17-23.10.47:996][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2014.05.17-23.10.48:074][  0]LogDerivedDataCache: Loaded boot cache 0.08s 38MB C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache/Boot.ddc.
-[2014.05.17-23.10.48:074][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache/Boot.ddc
-[2014.05.17-23.10.48:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2014.05.17-23.10.48:075][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2014.05.17-23.10.48:086][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
-[2014.05.17-23.10.48:098][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache: Writable
-[2014.05.17-23.10.48:362][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2014.05.17-23.10.48:362][  0]LogMeshUtilities: No automatic mesh merging module available
-[2014.05.17-23.10.48:691][  0]LogEnum:Warning: Enum Text 1 for Enum ECustomDepth failed to resolve to any value
-[2014.05.17-23.10.48:691][  0]LogEnum:Warning: Enum Text 3 for Enum EEarlyZPass failed to resolve to any value
-[2014.05.17-23.10.48:691][  0]LogEnum:Warning: Enum Text 1 for Enum EClearSceneOptions failed to resolve to any value
-[2014.05.17-23.10.48:691][  0]LogEnum:Warning: Enum Text 4 for Enum ECompositingSampleCount failed to resolve to any value
-[2014.05.17-23.10.49:557][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2014.05.17-23.10.50:182][  0]SourceControl: Info Source control is disabled
-[2014.05.17-23.10.50:182][  0]SourceControl: Info Source control is disabled
-[2014.05.17-23.10.50:194][  0]SourceControl: Info Source control is disabled
-[2014.05.17-23.10.50:295][  0]BlueprintLog: New page: Editor Load
-[2014.05.17-23.10.50:351][  0]LogObj: 18584 objects as part of root set at end of initial load.
-[2014.05.17-23.10.50:351][  0]LogUObjectAllocator: 3701744 out of 0 bytes used by permanent object pool.
-[2014.05.17-23.10.50:592][  0]LogAutomationTest:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
+[2014.05.17-23.31.13:235][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.05.17-23.31.13:279][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.05.17-23.31.14:288][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.05.17-23.31.14:479][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.05.17-23.31.14:537][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.05.17-23.31.15:132][  0]LogDerivedDataCache: Loaded boot cache 0.59s 38MB C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache/Boot.ddc.
+[2014.05.17-23.31.15:132][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache/Boot.ddc
+[2014.05.17-23.31.15:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.05.17-23.31.15:132][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.05.17-23.31.15:143][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.05.17-23.31.15:155][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache: Writable
+[2014.05.17-23.31.15:409][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.05.17-23.31.15:409][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.05.17-23.31.15:716][  0]LogEnum:Warning: Enum Text 1 for Enum ECustomDepth failed to resolve to any value
+[2014.05.17-23.31.15:716][  0]LogEnum:Warning: Enum Text 3 for Enum EEarlyZPass failed to resolve to any value
+[2014.05.17-23.31.15:716][  0]LogEnum:Warning: Enum Text 1 for Enum EClearSceneOptions failed to resolve to any value
+[2014.05.17-23.31.15:716][  0]LogEnum:Warning: Enum Text 4 for Enum ECompositingSampleCount failed to resolve to any value
+[2014.05.17-23.31.16:626][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.05.17-23.31.16:727][  0]SourceControl: Info Source control is disabled
+[2014.05.17-23.31.16:727][  0]SourceControl: Info Source control is disabled
+[2014.05.17-23.31.16:739][  0]SourceControl: Info Source control is disabled
+[2014.05.17-23.31.16:839][  0]BlueprintLog: New page: Editor Load
+[2014.05.17-23.31.16:893][  0]LogObj: 18584 objects as part of root set at end of initial load.
+[2014.05.17-23.31.16:893][  0]LogUObjectAllocator: 3701744 out of 0 bytes used by permanent object pool.
+[2014.05.17-23.31.17:134][  0]LogAutomationTest:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-291638278) String: (Toggle Realtime)
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-1913389001) String: (Toggles real time rendering in this viewport)
-[2014.05.17-23.10.50:592][  0]LogAutomationTest:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
+[2014.05.17-23.31.17:134][  0]LogAutomationTest:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-291638278) String: (Toggle Realtime)
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-1913389001) String: (Toggles real time rendering in this viewport)
-[2014.05.17-23.10.50:592][  0]LogAutomationTest:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
+[2014.05.17-23.31.17:134][  0]LogAutomationTest:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:ToggleRealtime_ToolTip):
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-291638278) String: (Toggle Realtime)
 Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-1913389001) String: (Toggles real time rendering in this viewport)
-[2014.05.17-23.10.50:592][  0]LogEngine: Initializing Engine...
-[2014.05.17-23.10.50:709][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2014.05.17-23.10.50:772][  0]LogInit: FAudioDevice initialized.
-[2014.05.17-23.10.50:808][  0]LogDerivedDataCache: Saved boot cache 0.03s 38MB C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache/Boot.ddc.
-[2014.05.17-23.10.50:818][  0]LogInit: Texture streaming: Enabled
-[2014.05.17-23.10.50:865][  0]LogInit: Transaction tracking system initialized
-[2014.05.17-23.10.51:045][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
-[2014.05.17-23.10.51:357][  0]LogModuleManager:Warning: ModuleManager: Unable to load module '' because the file was not found.
-[2014.05.17-23.10.51:370][  0]LogModuleManager:Warning: ModuleManager: Unable to load module '' because the file was not found.
-[2014.05.17-23.10.51:479][  0]LogConsoleResponse:Display: 
-[2014.05.17-23.10.51:784][  0]SourceControl: Info Source control is disabled
-[2014.05.17-23.10.51:784][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 WORLDCOMPOSITION=0
-[2014.05.17-23.10.51:785][  0]LightingResults: New page: Lighting Build
-[2014.05.17-23.10.51:798][  0]MapCheck: New page: Map Check
-[2014.05.17-23.10.51:798][  0]LightingResults: New page: Lighting Build
-[2014.05.17-23.10.51:815][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000156F54E0
-[2014.05.17-23.10.52:023][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2014.05.17-23.10.52:023][  0]Cmd: MAP CHECKDEP
-[2014.05.17-23.10.52:024][  0]MapCheck: New page: Untitled_1 - May 17, 2014, 3:10:52 PM
-[2014.05.17-23.10.52:097][  0]MapCheck: Info ========== Map Check: 0 Error(s), 0 Warning(s), [72.902ms] ==========
-[2014.05.17-23.10.52:097][  0]LogFileHelpers: Loading map 'Template_Default' took 0.312
-[2014.05.17-23.10.52:693][  0]LogCollectionManager: Loaded 0 collections in 0.001001 seconds
-[2014.05.17-23.10.52:712][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2014.05.17-23.10.52:815][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2014.05.17-23.10.52:816][  0]Cmd: MODE PLACEMENT
-[2014.05.17-23.10.53:300][  0]LogLoad: Full Startup: 7.93 seconds (BP compile: 0.08 seconds)
-[2014.05.17-23.10.53:418][  0]LogRenderer:Warning: Reallocating scene render targets to support 992x872.
-[2014.05.17-23.10.53:574][  1]LogEpicStorage:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>54D0B2494B1F8F0C</RequestId><HostId>iGVpo6UlyvI58szc60r6jdyfsuYRd853p0sECTk3CLTWIoqiVYGhslRgpbDdeGNm</HostId></Error>
-[2014.05.17-23.10.53:647][  1]LogAssetRegistry: Asset discovery search completed in 2.6112 seconds
-[2014.05.17-23.10.53:665][  2]LogEpicSurvey:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>831F829F13311975</RequestId><HostId>ycArt3sfQyl9tpAEiJyvw7RLF45DjePQnr4ZwF3h/8WopRcNae6tOXbx/dWV9xSu</HostId></Error>
-[2014.05.17-23.10.53:692][  3]LogEpicStorage:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>2685F8DF8B26B666</RequestId><HostId>kl4AtS937hfY6/wbTy3hddic22Y5baiGx4w+CrxVdIWhVl/7Y+IAz3y/H6XedahG6Ab0hOCqtgY=</HostId></Error>
-[2014.05.17-23.10.53:733][  5]LogEpicSurvey:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>BBBA82D4F0BF28F7</RequestId><HostId>ywL8p1R8SeYZgKUwzdX5U130EOMBAUrL5w9O3N2XmBvJzkqmx8i3X3eB21cqk0h2</HostId></Error>
-[2014.05.17-23.10.53:798][  8]LogEpicSurvey:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>CD696D52D6F674F7</RequestId><HostId>m1tCdpuaXz/T/b7wn+HF1bdhjAzg569INNxGRUatXiSRPZ7Y9LBC1whq+IGhuDsZ</HostId></Error>
-[2014.05.17-23.10.53:826][ 10]LogEpicStorage:Warning: ReadFile request failed. File request already pending for filename=http://cdn.unrealengine.com/newsfeed/blueprint_icon_b.png
-[2014.05.17-23.11.02:845][  2]Cmd: BRUSH ADD SELECTNEWBRUSH
-[2014.05.17-23.11.03:415][  2]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.07:679][469]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.08:324][537]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.08:812][591]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.12:255][999]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.12:897][ 71]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.13:603][150]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.18:321][707]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.11.28:332][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_0) Not registered. Aborting.
-[2014.05.17-23.11.28:396][866]LogTexture:Display: Building textures: Texture2D_1 (G8)
-[2014.05.17-23.11.39:446][103]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/NewFolder'
-[2014.05.17-23.11.46:073][873]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
-[2014.05.17-23.11.49:713][296]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2014.05.17-23.11.54:333][807]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/NewFolder'
-[2014.05.17-23.12.05:771][130]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Arcetecturee'
-[2014.05.17-23.12.11:104][744]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
-[2014.05.17-23.12.13:235][957]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
-[2014.05.17-23.12.21:870][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Test" FILE="../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Materials/Test.uasset" SILENT=true
-[2014.05.17-23.12.22:291][800]LogSavePackage: Save=405.567749ms
-[2014.05.17-23.12.22:291][800]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Saved//Test3512DAEF4BC0EC38067EB6A15BEC51AA.tmp' to '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Materials/Test.uasset'
-[2014.05.17-23.12.24:019][954]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2014.05.17-23.13.31:182][786]LogSavePackage: Save=75.671066ms
-[2014.05.17-23.13.31:182][786]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Saved//Test082ADE8341231F373B6B59B0992458CD.tmp' to '../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Levels/Test.umap'
-[2014.05.17-23.13.31:404][786]LogFileHelpers: Saving map 'Test' took 1.902
-[2014.05.17-23.17.45:129][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
-[2014.05.17-23.17.47:288][867]Cmd: UpdateLandscapeHoleCollision
-[2014.05.17-23.17.50:392][227]Cmd: DELETE
-[2014.05.17-23.17.50:392][227]Cmd: ACTOR DELETE
-[2014.05.17-23.17.50:419][227]LogEditorActor: Deleted Actor: Brush
-[2014.05.17-23.17.50:445][227]LogEditorActor: Deleted 1 Actors (0.053 secs)
-[2014.05.17-23.17.50:746][227]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
-[2014.05.17-23.17.51:396][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
-[2014.05.17-23.17.51:928][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
-[2014.05.17-23.17.53:749][512]Cmd: DELETE
-[2014.05.17-23.17.53:749][512]Cmd: ACTOR DELETE
-[2014.05.17-23.17.53:749][512]LogEditorActor: Deleted Actor: StaticMeshActor
-[2014.05.17-23.17.53:769][512]LogEditorActor: Deleted 1 Actors (0.020 secs)
-[2014.05.17-23.20.51:178][855]LogWindows: LaunchURL http://www.unrealengine.com/blog?category=Blueprints
-[2014.05.17-23.20.51:405][855]LogWindows: LaunchURL http://www.unrealengine.com/blog?category=Blueprints
-[2014.05.17-23.20.51:408][855]LogWindows: LaunchURL http://www.unrealengine.com/blog?category=Blueprints
-[2014.05.17-23.21.10:586][860]LogWindows: LaunchURL http://wiki.unrealengine.com/Editing_Matinee_Basics:_Creating_Your_First_Matinee_Sequence
-[2014.05.17-23.22.31:49
+[2014.05.17-23.31.17:134][  0]LogEngine: Initializing Engine...
+[2014.05.17-23.31.17:253][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2014.05.17-23.31.17:301][  0]LogInit: FAudioDevice initialized.
+[2014.05.17-23.31.17:337][  0]LogDerivedDataCache: Saved boot cache 0.03s 38MB C:/Users/Justin/AppData/Local/UnrealEngine/4.1/DerivedDataCache/Boot.ddc.
+[2014.05.17-23.31.17:346][  0]LogInit: Texture streaming: Enabled
+[2014.05.17-23.31.17:409][  0]LogInit: Transaction tracking system initialized
+[2014.05.17-23.31.17:585][  0]LogAssetRegistry: FAssetRegistry took 0.0096 seconds to start up
+[2014.05.17-23.31.17:867][  0]LogModuleManager:Warning: ModuleManager: Unable to load module '' because the file was not found.
+[2014.05.17-23.31.17:878][  0]LogModuleManager:Warning: ModuleManager: Unable to load module '' because the file was not found.
+[2014.05.17-23.31.18:002][  0]LogConsoleResponse:Display: 
+[2014.05.17-23.31.18:326][  0]SourceControl: Info Source control is disabled
+[2014.05.17-23.31.18:326][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 WORLDCOMPOSITION=0
+[2014.05.17-23.31.18:326][  0]LightingResults: New page: Lighting Build
+[2014.05.17-23.31.18:338][  0]MapCheck: New page: Map Check
+[2014.05.17-23.31.18:338][  0]LightingResults: New page: Lighting Build
+[2014.05.17-23.31.18:356][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000014E754E0
+[2014.05.17-23.31.18:562][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.05.17-23.31.18:563][  0]Cmd: MAP CHECKDEP
+[2014.05.17-23.31.18:563][  0]MapCheck: New page: Untitled_1 - May 17, 2014, 3:31:18 PM
+[2014.05.17-23.31.18:643][  0]MapCheck: Info ========== Map Check: 0 Error(s), 0 Warning(s), [80.332ms] ==========
+[2014.05.17-23.31.18:643][  0]LogFileHelpers: Loading map 'Template_Default' took 0.318
+[2014.05.17-23.31.19:224][  0]LogCollectionManager: Loaded 0 collections in 0.001192 seconds
+[2014.05.17-23.31.19:345][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.05.17-23.31.19:346][  0]Cmd: MODE PLACEMENT
+[2014.05.17-23.31.19:841][  0]LogLoad: Full Startup: 7.88 seconds (BP compile: 0.08 seconds)
+[2014.05.17-23.31.19:861][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2014.05.17-23.31.19:972][  0]LogRenderer:Warning: Reallocating scene render targets to support 992x872.
+[2014.05.17-23.31.20:190][  1]LogEpicStorage:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>14B8C2AE6483FCAA</RequestId><HostId>7e5tktq0+FOxUDMCsBHbQc21HXdciWwqckmqR1tY6FLBTizWBngzfOM7jmb0P5cj</HostId></Error>
+[2014.05.17-23.31.20:208][  1]LogAssetRegistry: Asset discovery search completed in 2.6327 seconds
+[2014.05.17-23.31.20:230][  2]LogEpicSurvey:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>77705CDD369F9704</RequestId><HostId>s4/pLaJO/0RXGIrN3O2xkGCf3wHH8y+JovKAKyQ1s2nLVHWeVoabM9adSge4CEse</HostId></Error>
+[2014.05.17-23.31.20:340][  6]LogEpicStorage:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>969BD86AD6102050</RequestId><HostId>dEHFQtJpbVGaTAkMNgIzuPxADis+VuuchnVhNk9nQC1R4q+cWqzj2tYddmEeGRcy</HostId></Error>
+[2014.05.17-23.31.20:371][  7]LogEpicSurvey:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>93A8DB13E2CDA16D</RequestId><HostId>s007CbioKBXxj2RWYMZBz05nkCZfu667TuUNc9reRtXtsVr7iLfygWPFwDN4XG9z</HostId></Error>
+[2014.05.17-23.31.20:440][ 12]LogEpicSurvey:Warning: EnumerateFiles request failed. Invalid response. code=403 error=<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>CB1CC777CF3E0030</RequestId><HostId>FEJfdH0fO37RDdU9bQQBiINgOWLBl5VYGik5PaQQo4+TQ7DLFyR+49AJ0tRo6Suz</HostId></Error>
+[2014.05.17-23.31.20:463][ 13]LogEpicStorage:Warning: ReadFile request failed. File request already pending for filename=http://cdn.unrealengine.com/newsfeed/blueprint_icon_b.png
+[2014.05.17-23.31.26:338][654]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Levels'
+[2014.05.17-23.31.28:232][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2014.05.17-23.31.29:538][ 35]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2014.05.17-23.31.31:999][328]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2014.05.17-23.32.01:385][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2014.05.17-23.32.08:815][167]Cmd: MAP LOAD FILE="../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 WORLDCOMPOSITION=0
+[2014.05.17-23.32.08:816][167]LightingResults: New page: Lighting Build
+[2014.05.17-23.32.08:816][167]Cmd: MODE PLACEMENT
+[2014.05.17-23.32.08:830][167]LoadErrors: New page: Loading map: Test.umap
+[2014.05.17-23.32.08:830][167]MapCheck: New page: Map Check
+[2014.05.17-23.32.08:830][167]LightingResults: New page: Lighting Build
+[2014.05.17-23.32.08:852][167]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A396520
+[2014.05.17-23.32.08:916][167]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.05.17-23.32.08:981][167]Cmd: MAP CHECKDEP
+[2014.05.17-23.32.08:981][167]MapCheck: New page: Test - May 17, 2014, 3:32:08 PM
+[2014.05.17-23.32.09:057][167]MapCheck: Info ========== Map Check: 0 Error(s), 0 Warning(s), [76.133ms] ==========
+[2014.05.17-23.32.09:057][167]LogFileHelpers: Loading map 'Test' took 0.242
+[2014.05.17-23.32.14:328][794]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2014.05.17-23.32.18:116][ 78]Cmd: MAP LOAD FILE="../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 WORLDCOMPOSITION=0
+[2014.05.17-23.32.18:116][ 78]LightingResults: New page: Lighting Build
+[2014.05.17-23.32.18:117][ 78]Cmd: MODE PLACEMENT
+[2014.05.17-23.32.18:130][ 78]LoadErrors: New page: Loading map: Test.umap
+[2014.05.17-23.32.18:130][ 78]MapCheck: New page: Map Check
+[2014.05.17-23.32.18:130][ 78]LightingResults: New page: Lighting Build
+[2014.05.17-23.32.18:154][ 78]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001279A0C0
+[2014.05.17-23.32.18:178][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.05.17-23.32.18:194][ 78]Cmd: MAP CHECKDEP
+[2014.05.17-23.32.18:194][ 78]MapCheck: New page: Test - May 17, 2014, 3:32:18 PM
+[2014.05.17-23.32.18:271][ 78]MapCheck: Info ========== Map Check: 0 Error(s), 0 Warning(s), [76.189ms] ==========
+[2014.05.17-23.32.18:271][ 78]LogFileHelpers: Loading map 'Test' took 0.155
+[2014.05.17-23.32.23:303][502]Cmd: MAP LOAD FILE="../../../../../../Users/Justin/Documents/GitHub/ParaAdven/Para_Adven/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 WORLDCOMPOSITION=0
+[2014.05.17-23.32.23:303][502]LightingResults: New page: Lighting Build
+[2014.05.17-23.32.23:304][502]Cmd: MODE PLACEMENT
+[2014.05.17-23.32.23:317][502]LoadErrors: New page: Loading map: Test.umap
+[2014.05.17-23.32.23:317][502]MapCheck: New page: Map Check
+[2014.05.17-23.32.23:317][502]LightingResults: New page: Lighting Build
+[2014.05.17-23.32.23:346][502]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012544B80
+[2014.05.17-23.32.23:370][502]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.05.17-23.32.23:381][502]Cmd: MAP CHECKDEP
+[2014.05.17-23.32.23:381][502]MapCheck: New page: Test - May 17, 2014, 3:32:23 PM
+[2014.05.17-23.32.23:456][502]MapCheck: Info ========== Map Check: 0 Error(s), 0 Warning(s), [74.22ms] ==========
+[2014.05.17-23.32.23:456][502]LogFileHelpers: Loading map 'Test' took 0.153
+[2014.05.17-23.32.28:485][ 91]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Levels'
+[2014.05.17-23.32.51:414][574]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 C:\Users\Justin\Documents\GitHub\ParaAdven\Para_Adven\Content\Textures/Simple_Button.png)
+[2014.05.17-23.32.51:506][574]0.014675 seconds to analyze Texture2D /Game/Textures/Simple_Button.Simple_Button
+
+[2014.05.17-23.32.51:508][574]LogTexture:Display: Building textures: Simple_Button (AutoDXT)
+[2014.05.17-23.33.32:142][574]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 C:\Users\Justi
